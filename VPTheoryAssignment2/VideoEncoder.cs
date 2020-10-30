@@ -3,13 +3,14 @@ using System.Threading;
 
 namespace VPTheoryAssignment2
 {
+    public class VideoEventArgs : EventArgs
+    {
+        public Video Video { get; set; }
+    }
+
     public class VideoEncoder
     {
-        // Defining a delegate here
-        public delegate void VideoEncodedEventHandler(object source, EventArgs e);
-
-        // Defining an event here
-        public event VideoEncodedEventHandler VideoEncoded;
+        public EventHandler<VideoEventArgs> VideoEncoded;
 
         public void encode(Video video)
         {
@@ -17,15 +18,15 @@ namespace VPTheoryAssignment2
             Thread.Sleep(3000);
             Console.WriteLine("Video encoded");
 
-            OnVideoEncoded();
+            OnVideoEncoded(video);
         }
 
         // Raising the event here
-        protected virtual void OnVideoEncoded()
+        protected virtual void OnVideoEncoded(Video video)
         {
             if (VideoEncoded != null)
             {
-                VideoEncoded(this, EventArgs.Empty);
+                VideoEncoded(this, new VideoEventArgs() {Video = video});
             }
         }
     }
