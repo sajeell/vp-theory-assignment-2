@@ -1,0 +1,13 @@
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\bin\Debug\netcoreapp3.1\VPTheoryAssignment2.exe
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\bin\Debug\netcoreapp3.1\VPTheoryAssignment2.deps.json
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\bin\Debug\netcoreapp3.1\VPTheoryAssignment2.runtimeconfig.json
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\bin\Debug\netcoreapp3.1\VPTheoryAssignment2.runtimeconfig.dev.json
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\bin\Debug\netcoreapp3.1\VPTheoryAssignment2.dll
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\bin\Debug\netcoreapp3.1\VPTheoryAssignment2.pdb
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\obj\Debug\netcoreapp3.1\VPTheoryAssignment2.csprojAssemblyReference.cache
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\obj\Debug\netcoreapp3.1\VPTheoryAssignment2.AssemblyInfoInputs.cache
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\obj\Debug\netcoreapp3.1\VPTheoryAssignment2.AssemblyInfo.cs
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\obj\Debug\netcoreapp3.1\VPTheoryAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\obj\Debug\netcoreapp3.1\VPTheoryAssignment2.dll
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\obj\Debug\netcoreapp3.1\VPTheoryAssignment2.pdb
+C:\Users\Sajeel\RiderProjects\VPTheoryAssignment2\VPTheoryAssignment2\obj\Debug\netcoreapp3.1\VPTheoryAssignment2.genruntimeconfig.cache

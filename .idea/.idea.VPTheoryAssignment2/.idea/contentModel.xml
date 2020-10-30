@@ -16,6 +16,8 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Video.cs" t="Include" />
+        <e p="VideoEncoder.cs" t="Include" />
         <e p="VPTheoryAssignment2.csproj" t="IncludeRecursive" />
       </e>
       <e p="VPTheoryAssignment2.sln" t="IncludeFlat" />
